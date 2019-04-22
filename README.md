@@ -47,10 +47,12 @@ Git bash 설치 필요
 
 * 참조: 윈도우에서 KoNLPy 설치하기 [링크1](https://konlpy-ko.readthedocs.io/ko/v0.4.3/install/) [링크2](https://junprogramer.tistory.com/103)
 
-  2.1. 추가로 다음 코퍼스와 데이터를 다운로드 받는다. (강의 자료 내에 포함되어있습니다).
+  2.1. 추가로 다음 코퍼스, tagger와 데이터를 다운로드 받는다. (강의 자료 내에 포함되어있습니다).
 
 - nltk.download('wordnet')
 - nltk.download('brown')
+- nltk.download('gutenberg')  
+- nltk.download('maxent_treebank_pos_tagger')
 - 국민청원데이터(다운로드 링크: https://s3.ap-northeast-2.amazonaws.com/data10902/petition/petition.csv 출처: https://github.com/akngs/petitions에서 전체 데이터인 ```petetion.csv``` 다운로드)
 
 
