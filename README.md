@@ -1,4 +1,4 @@
-# Textmining
+# Text mining
 
 ## 1. 깃헙 레포지토리 설치: 
 
