@@ -1,5 +1,4 @@
-# textmining
-텍스트 마이닝 강의 자료
+# Textmining
 
 ## 1. 깃헙 레포지토리 설치: 
 
